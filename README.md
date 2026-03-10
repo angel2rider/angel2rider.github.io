@@ -1,4 +1,3 @@
-```markdown
 # 📸 Pichost – Infinite(ish) Image Hosting
 
 Powered by Cloudflare Workers, Cloudflare KV, and Telegram's very generous (and free) file infrastructure.
@@ -155,4 +154,3 @@ by **Vivek Pereira Albert** (@TheGT2Angel)
 [MIT](./LICENSE) — fork it, break it, host cat pictures with it — just don’t blame me when Telegram eventually notices.
 
 Enjoy your $0 storage. 🚀
-```
